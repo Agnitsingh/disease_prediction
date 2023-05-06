@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "109921238039",
+    "project_id": "healthsymptoms-7ca03",
+    "storage_bucket": "healthsymptoms-7ca03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109921238039:android:481378a544c84f1ee4f052",
+        "android_client_info": {
+          "package_name": "com.example.disease_symptoms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109921238039-jqv9gt4dmi7kc4stu7lhpemgq7nocufh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.disease_symptoms",
+            "certificate_hash": "fafd3c45cb7b27bdf78d3a08380a6fcc46ef2fdf"
+          }
+        },
+        {
+          "client_id": "109921238039-prsm6tvesuk558sb32e6hcao0lfpdrn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHrS972oKUu6YlEuSAfvuyqkQ2CyfZWt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109921238039-prsm6tvesuk558sb32e6hcao0lfpdrn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
